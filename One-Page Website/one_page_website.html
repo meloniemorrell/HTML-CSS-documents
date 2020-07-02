@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="./one_page_website.css"></link>
+	<script src="./JS/one_page_website.js"></script>
+	<title>Dogs make great pets!</title>
+	</head>
+	<body>
+		<header>
+			<nav class="menu">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<h2>Adopting a dog can add so much joy to your life</h2>
+		<p>Dogs have the ability to lift your spirits as well as improve the quality and increase the longevity of your life. The health benefits associated with adopting a companion animal like a dog are many and even scientifically substantiated. Your furry friend will benefit both your physical and emotional health.
+		</p>
+		<p>The shelter will be hosting free adoptions on <time datetime="2020-07-20">July 7</time> at the Shelter for Dogs.</p>
+			<iframe src="https://www.youtube.com/embed/Ra0s0VvY3AA" title="How to Adopt a Dog"></iframe>
+		<p>Please complete the form to RSVP</p>
+	<section>
+	<label for="name">
+			<span>Name: </span>
+			<strong><abbr >*</abbr></strong>
+		  </label>
+		  <input type="text" id="name" name="username">
+		</p>
+		<p>
+		  <label for="mail">
+			<span>E-mail: </span>
+			<strong><abbr >*</abbr></strong>
+		  </label>
+		  <input type="email" id="mail" name="usermail">
+		</p>
+		<p>
+		  <label for="mess">
+			<span>Message: </span>
+			<strong><abbr >*</abbr></strong>
+		  </label>
+		  <input type="message-box" id="mess" name="message-box" style="width:200px;height:50px">
+		  </p>
+	</section>
+
+	<div class="row">
+		<div class="col">
+		   <img src="img1.jpg" onclick="openLightbox();toSlide(0)" class="hover-shadow preview" alt="Toy car on the road." />
+		</div>
+		<div class="col">
+		   <img src="img2.jpg" onclick="openLightbox();toSlide(1)" class="hover-shadow preview" alt="Toy car exploring offroad." />
+		</div>
+		<div class="col">
+		   <img src="img3.jpg" onclick="openLightbox();toSlide(2)" class="hover-shadow preview" alt="Toy car in the city." />
+		</div>
+		<div class="col">
+			<img src="img4.jpg" onclick="openLightbox();toSlide(3)" class="hover-shadow preview" alt="Toy car in the city." />
+		 </div>
+	  </div>
+	  
+	  <!-- This is your lightbox, it is contained in a modal. Here you provide all the images,
+		   controls, and another set of preview images as the dots. Dots show your user which
+		   image is currently active. Note that you use entities (e.g. &times;), more info on
+		   them at the bottom. -->
+		   
+	  <div id="Lightbox" class="modal">
+		<span class="close pointer" onclick="closeLightbox()">&times;</span>
+		<div class="modal-content">
+		  <div class="slide">
+			  <img src="img1.jpg" class="image-slide" alt="" />
+		  </div>
+		  <div class="slide">
+			  <img src="img2.jpg" class="image-slide" alt="" />
+		  </div>    
+		  <div class="slide">
+			  <img src="img3.jpg" class="image-slide" alt="" />
+		  </div>
+		  <div class="slide">
+			<img src="img4.jpg" class="image-slide" alt="" />
+		</div>
+		
+		  <a class="previous" onclick="changeSlide(-1)">&#10094;</a>
+		  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+		
+		  <div class="dots">
+			<div class="col">
+			  <img src="img1.jpg" class="modal-preview hover-shadow" onclick="toSlide(0)" alt="" />
+			</div>
+			<div class="col">
+			  <img src="img2.jpg" class="modal-preview hover-shadow" onclick="toSlide(1)" alt="" />
+			</div>
+			<div class="col">
+			  <img src="img3.jpg" class="modal-preview hover-shadow" onclick="toSlide(2)" alt="" />
+			</div>
+			<div class="col">
+				<img src="img4.jpg" class="modal-preview hover-shadow" onclick="toSlide(3)" alt="" />
+			</div>
+		</div>
+		  </div>
+		</div>
+	  </div>
+
+</div>
+	<footer>
+  <p>Author: Melonie Morrell</p>
+  <p><a href="mailto:mmorrell@example.com">mmorrell@example.com</a></p>
+	</footer>
+</body>
+</html>
+
+
+
+
