@@ -6,9 +6,9 @@ function placeXOrO(squareNumber) { //This function is for placing an x or o in a
     if (!selectedSquares.some(element => element.includes(squareNumber))) { //This condition ensures a square hasn't be selected already. The .some() method is used to check each element of selectedSquare array to see if it contains the square number clicked on.
         let select = document.getElementById(squareNumber); //This variable retrieves the html element id that was clicked.
         if (activePlayer === 'X') { //This condition checks who's turn it is.
-            select.style.backgroundImage = 'url("images/x.png")'; //If activePlayer is equal to 'X', the x.png is placed in HTML.
+            select.style.backgroundImage = 'url("images/x.jpg")'; //If activePlayer is equal to 'X', the x.png is placed in HTML.
         } else { //Active player may only be 'X' or 'O' so, if not 'X' it must be 'O'
-            select.style.backgroundImage = 'url("images/o.png")'; //If activePlayer is equal to 'O', the o.png is placed in HTML.
+            select.style.backgroundImage = 'url("images/o.jpg")'; //If activePlayer is equal to 'O', the o.png is placed in HTML.
         }
         selectedSquares.push(squareNumber + activePlayer); //squareNumber and activePlayer are concatenated together and added to array.
         checkWinConditions(); //This calls a function to check for any win conditions. More on this below.

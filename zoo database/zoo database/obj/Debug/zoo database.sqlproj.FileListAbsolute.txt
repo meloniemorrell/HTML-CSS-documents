@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\bin\Debug\zoo database.dacpac
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\bin\Debug\zoo_database.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\bin\Debug\zoo_database.pdb
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\obj\Debug\zoo database.sqlprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\obj\Debug\Model.xml
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\obj\Debug\refactor.xml
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\obj\Debug\postdeploy.sql
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\obj\Debug\predeploy.sql
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\obj\Debug\zoo_database.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\zoo database\zoo database\obj\Debug\zoo_database.pdb
