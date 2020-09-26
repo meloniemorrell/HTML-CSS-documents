@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\bin\Debug\netcoreapp3.1\Loop_183b.exe
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\bin\Debug\netcoreapp3.1\Loop_183b.deps.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\bin\Debug\netcoreapp3.1\Loop_183b.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\bin\Debug\netcoreapp3.1\Loop_183b.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\bin\Debug\netcoreapp3.1\Loop_183b.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\bin\Debug\netcoreapp3.1\Loop_183b.pdb
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\obj\Debug\netcoreapp3.1\Loop_183b.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\obj\Debug\netcoreapp3.1\Loop_183b.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\obj\Debug\netcoreapp3.1\Loop_183b.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\obj\Debug\netcoreapp3.1\Loop_183b.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\obj\Debug\netcoreapp3.1\Loop_183b.pdb
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\Loop_183b\Loop_183b\obj\Debug\netcoreapp3.1\Loop_183b.genruntimeconfig.cache
