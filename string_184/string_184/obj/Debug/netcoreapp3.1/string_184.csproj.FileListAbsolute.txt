@@ -10,3 +10,4 @@ C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_184\string_184\bin\D
 C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_184\string_184\obj\Debug\netcoreapp3.1\string_184.dll
 C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_184\string_184\obj\Debug\netcoreapp3.1\string_184.pdb
 C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_184\string_184\obj\Debug\netcoreapp3.1\string_184.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_184\string_184\obj\Debug\netcoreapp3.1\string_184.csprojAssemblyReference.cache

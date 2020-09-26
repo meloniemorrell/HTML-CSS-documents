@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\bin\Debug\netcoreapp3.1\loops_181.exe
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\bin\Debug\netcoreapp3.1\loops_181.deps.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\bin\Debug\netcoreapp3.1\loops_181.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\bin\Debug\netcoreapp3.1\loops_181.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\bin\Debug\netcoreapp3.1\loops_181.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\bin\Debug\netcoreapp3.1\loops_181.pdb
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\obj\Debug\netcoreapp3.1\loops_181.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\obj\Debug\netcoreapp3.1\loops_181.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\obj\Debug\netcoreapp3.1\loops_181.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\obj\Debug\netcoreapp3.1\loops_181.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\obj\Debug\netcoreapp3.1\loops_181.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\obj\Debug\netcoreapp3.1\loops_181.pdb
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\loops_181\loops_181\obj\Debug\netcoreapp3.1\loops_181.genruntimeconfig.cache

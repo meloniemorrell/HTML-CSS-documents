@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Student\Documents\GitHub\HTML-CSS-documents\arrays_187.cs" Link="arrays_187.cs" />
+  </ItemGroup>
+
 </Project>
