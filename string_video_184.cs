@@ -1,22 +1,30 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace StringFunctions
-{
-	class Program
-	{
-		static void Main(string[] args)
-		{
-			string name = "Jessie";
-			string quote = "The man said, \"Hello\", Jessie. \n Hello on a new line. \n \t Hello on a tab.";
-
-
+//namespace StringFunctions
+//{
+	//class Program
+	//{
+		//static void Main(string[] args)
+		//{
+			//string name = "Jessie";
+			//string quote = "The man said, \"Hello\", Jessie. \n Hello on a new line. \n \t Hello on a tab.";
 
 
-			Console.WriteLine(quote);
+
+
+			//Console.WriteLine(quote);
+			//Console.ReadLine();
+
+			StringBuilder sb = new StringBuilder();
+
+			sb.Append("My name is Jessie");
+
+
+			Console.WriteLine(sb);
 			Console.ReadLine();
 
 		}
