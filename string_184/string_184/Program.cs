@@ -1,20 +1,23 @@
 ﻿using System;
+//using System.Text;
 
-namespace StringFunctions
+//namespace StringFunctions
 {
-	class Program
-	{
-		static void Main(string[] arg)
-		{
-			string name = "Jessie";
-			string quote = "The man said, \\Hello\", Jessie. \n Hello on a new line. \n \t Hello on a tab";
-			string fileName = @"C:\Users\Jessie";
+	//class Program
+	//{
+		//static void Main(string[] arg)
+		//{
+			//string name = "Jessie";
+			//string quote = "The man said, \\Hello\", Jessie. \n Hello on a new line. \n \t Hello on a tab";
 
 
-			bool trueOrFalse = name.Contains("s");
+			//bool trueOrFalse = name.Contains("s");
 
+			StringBuilder sb = new StringBuilder();
 
-			Console.WriteLine(quote);
+			sb.Append("My name is Jesse");
+
+			Console.WriteLine(sb);
 			Console.ReadLine();
 
 

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "string_184/1.0.0": {
+      "StringFunctions_184 video/1.0.0": {
         "runtime": {
-          "string_184.dll": {}
+          "StringFunctions_184 video.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "string_184/1.0.0": {
+    "StringFunctions_184 video/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
