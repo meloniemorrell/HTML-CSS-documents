@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\bin\Debug\netcoreapp3.1\string_186b.exe
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\bin\Debug\netcoreapp3.1\string_186b.deps.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\bin\Debug\netcoreapp3.1\string_186b.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\bin\Debug\netcoreapp3.1\string_186b.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\bin\Debug\netcoreapp3.1\string_186b.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\bin\Debug\netcoreapp3.1\string_186b.pdb
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\obj\Debug\netcoreapp3.1\string_186b.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\obj\Debug\netcoreapp3.1\string_186b.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\obj\Debug\netcoreapp3.1\string_186b.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\obj\Debug\netcoreapp3.1\string_186b.dll
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\obj\Debug\netcoreapp3.1\string_186b.pdb
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\string_186b\string_186b\obj\Debug\netcoreapp3.1\string_186b.genruntimeconfig.cache
