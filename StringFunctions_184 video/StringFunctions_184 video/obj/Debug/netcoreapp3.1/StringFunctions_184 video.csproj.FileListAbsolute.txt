@@ -10,3 +10,4 @@ C:\Users\Student\Documents\GitHub\HTML-CSS-documents\StringFunctions_184 video\S
 C:\Users\Student\Documents\GitHub\HTML-CSS-documents\StringFunctions_184 video\StringFunctions_184 video\obj\Debug\netcoreapp3.1\StringFunctions_184 video.dll
 C:\Users\Student\Documents\GitHub\HTML-CSS-documents\StringFunctions_184 video\StringFunctions_184 video\obj\Debug\netcoreapp3.1\StringFunctions_184 video.pdb
 C:\Users\Student\Documents\GitHub\HTML-CSS-documents\StringFunctions_184 video\StringFunctions_184 video\obj\Debug\netcoreapp3.1\StringFunctions_184 video.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\HTML-CSS-documents\StringFunctions_184 video\StringFunctions_184 video\obj\Debug\netcoreapp3.1\StringFunctions_184 video.csprojAssemblyReference.cache
