@@ -5,7 +5,7 @@ class Program
 {
         static void Main()
         {
-        int[] numArray; = new int[5];
+        int[] numArray = new int[5];
         numArray[0] = 5;
         numArray[1] = 2;
         numArray[2] = 10;
@@ -18,4 +18,4 @@ class Program
         Console.ReadLine();
         }
     }
-}
+
