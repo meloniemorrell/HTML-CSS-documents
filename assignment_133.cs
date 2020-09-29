@@ -4,6 +4,19 @@ class Program
 {
         static void Main(string[] args)
         {
+        Console.WriteLine("The Tech Academy" '/n' "Student Daily Report");
+        string TechAcad = Console.ReadLine();
+        Console.ReadLine();
+
+        Console.WriteLine("The Tech Academy");
+        string TechAcad = Console.ReadLine();
+        Console.ReadLine();
+
+
+
+
+
+
         Console.WriteLine("What is your name?");
         string yourName = Console.ReadLine();
         Console.WriteLine("Your name is " + yourName);
