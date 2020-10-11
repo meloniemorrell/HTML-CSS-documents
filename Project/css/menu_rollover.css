@@ -36,7 +36,7 @@ body{
 	border-radius: 1.5px;
 	background-color: #387593;
 	cursor: pointer;
-	
+}
 .menu li:hover {
 	background-color: #5EAFDF;
 	color: #fff;
@@ -45,7 +45,7 @@ body{
 .menu li:hover ul {
 	display: block;
 	opacity: 1;
-	visibility: visibile;
+	visibility: visible;
 }
 
 .submenu {
